@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 > [!TIP]
-> Learning is a journey, where each step uncovers new knowledge and deeper understanding.
+> Learning is a journey where each step uncovers new knowledge and deeper understanding.
 > Sharing knowledge is like lighting a candle — it doesn't diminish what you have but spreads light to others.
 
 <p align='center'>
