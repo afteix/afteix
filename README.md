@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 > Learning is a journey where each step uncovers new knowledge and deeper understanding.
 > Sharing knowledge is like lighting a candle — it doesn't diminish what you have but spreads light to others.
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=afteix&theme=dark" width="350"></a>
-</p>
-
 <p align='left'>
   💻 workspace <br/><br/>
   <img src="https://img.shields.io/badge/CPU-RYZEN%207%205800x-orange?logo=amd" />
